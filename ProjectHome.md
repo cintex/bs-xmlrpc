@@ -1,0 +1,1 @@
+An effort to create simple XML-RPC handling in Delphi. HTTP handling is excluded.
